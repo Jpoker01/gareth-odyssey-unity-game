@@ -1,8 +1,6 @@
 # The Gareth Odyssey
 
-*A 2D educational platformer through the historical eras of Crete.*
-
-AVAILABLE ONLINE AT
+*A 2D pixel-art platformer through the historical eras of Crete.*
 
 Play as **Gareth Owens**, archaeologist and Cretan-script scholar, who recovers
 lost artefacts in vivid dreams of the island's past to fill his fledgling museum
@@ -11,7 +9,7 @@ era)** as a complete, playable vertical slice.
 
 ### <a href="https://play.unity.com/en/games/35ff710d-d7f1-42c0-83b3-dcba44b5f08b/builds" target="_blank" rel="noopener noreferrer">▶ Play it now in your browser</a>
 
-![Gareth meets a Roman sentry in the ruins of Gortyna](gareth3.png)
+![Gareth meets a Roman sentry in the ruins of Gortyna](Assets/gareth3.png)
 
 ---
 
