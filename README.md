@@ -26,10 +26,10 @@ Levels 1, 3, and 4 remain at the design stage.
 
 | | |
 |---|---|
-| ![Olive grove opening with food pickups and a checkpoint stele](gareth1.png) | ![A rebel camp tucked into the cliffs](gareth2.png) |
+| ![Olive grove opening with food pickups and a checkpoint stele](Assets/gareth1.png) | ![A rebel camp tucked into the cliffs](Assets/gareth2.png) |
 | **The grove** — apples and Cretan dishes restore health; a stele waits at the path's end. | **The camp** — explorable detail between the platforming beats. |
 
-| ![Animated camp scene](gareth_anim1.gif) | ![A stele checkpoint lighting up beside a death-zone pit](gareth_anim2.gif) | ![Platforming past a legionarius across floating ruins](gareth_anim3.gif) |
+| ![Animated camp scene](Assets/lowres_gareth_anim1.gif) | ![A stele checkpoint lighting up beside a death-zone pit](Assets/lowres_gareth_anim2.gif) | ![Platforming past a legionarius across floating ruins](Assets/lowres_gareth_anim3.gif) |
 |---|---|---|
 | In-engine animation | Checkpoint stele + pit | Platforming + enemy |
 
