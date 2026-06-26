@@ -6,7 +6,7 @@ Play as **Gareth Owens**, archaeologist and Cretan script scholar, who recovers 
  
 ### <a href="https://play.unity.com/en/games/35ff710d-d7f1-42c0-83b3-dcba44b5f08b/builds" target="_blank" rel="noopener noreferrer">▶ Play it in your browser</a>
  
-![](Assets/lowres_anim_gareth1.gif)
+![beginning_of_game](Assets/lowres_anim_gareth1.gif)
  
 ---
  
