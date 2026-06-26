@@ -40,7 +40,7 @@ This build focuses on one finished level rather than trying to implement the ent
 ## Gameplay
  
 - **Avoidance-based gameplay** - The player has no weapons or ranged attacks. Progress depends on timing, observation, and careful navigation through encounters with the enemies.
-- **Stomp option.** - Land directly on an enemy to defeat it - any other contact knocks Gareth back and costs him one life, so a mistimed stomp is just a normal hit.
+- **Stomp option.** - Land directly on enemies to defeat them - any other contact knocks Gareth back and costs him one life, so a mistimed stomp is just a normal hit.
 - **Checkpoints (stelae).** - Walk past a stele to light it and save your spot. Fall into a pit and you respawn there, minus one life. Run out of lives and the level restarts from the beginning.
 - **Historical framing.** An intro panel sets the era's context; a completion panel names and describes the recovered artefact.
 
