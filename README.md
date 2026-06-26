@@ -48,10 +48,6 @@ This build focuses on one finished level rather than trying to implement the ent
   <img src="Assets/gareth_anim2.gif">
 </p>
  
-<p align="center">
-  <img src="Assets/gareth_anim3.gif">
-</p>
-
 *A checkpoint lights up as Gareth passes — if the player falls on a death zone, they are respawned there (without one life).*
  
 ---
@@ -72,9 +68,14 @@ Five hand-tuned state machines that share only the contact/stomp rule:
 - **Legionarius** — Patrols a fixed route. Raises an alert if you enter his proximity.
 - **Sagittarius** — Stationary enemy that fires arrows in predictable time period. It tracks the player by turning to face them, but does not move or chase.
 - **Agrios Xoiros** — Wild boar that charges in a straight line after noticing you.
-- **Macrovipera** — Snake enemy that rears up and strikes in a quick forward attack, similar to the boar.
+- **Macrovipera** — Snake enemy that rears up and strikes in a quick forward attack, similar to the boar.  
+
+<p align="center">
+  <img src="Assets/gareth_anim3.gif">
+</p>
+
 ---
- 
+
 ## Difficulty
  
 | Difficulty level | Lives | Notes                                                                          |
