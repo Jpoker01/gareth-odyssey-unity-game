@@ -82,7 +82,7 @@ Four types of enemy AIs:
 |------------------|---|--------------------------------------------------------------------------------|
 | Easy             | ∞ | Explore and read the history. There is no limit to how many times you respawn. |
 | Medium           | 5 | Balanced gameplay - Recommended difficulty for first playthrough               |
-| Hard             | 3 | Demanding - enemy timings are also made more tough.                            |
+| Hard             | 3 | Demanding - enemy timings are also made tougher.                               |
 | Impossible       | 1 | One hit ends your playthrough.                                                 |
   
 ---
