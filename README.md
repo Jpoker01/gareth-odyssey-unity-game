@@ -6,8 +6,9 @@ Play as **Gareth Owens**, archaeologist and Cretan script scholar, who recovers 
  
 ### <a href="https://play.unity.com/en/games/35ff710d-d7f1-42c0-83b3-dcba44b5f08b/builds" target="_blank" rel="noopener noreferrer">▶ Play it in your browser</a>  
 
-![beginning_of_game](Assets/gareth_anim1.gif)
- 
+<p align="center">
+  <img src="Assets/gareth_anim1.gif" alt="beginning_of_game">
+</p>
 ---
  
 ## Build Overview
@@ -25,12 +26,15 @@ This build focuses on one finished level rather than trying to implement the ful
 - **Checkpoints (stelae).** Walk past a stele to light it and save your spot. Fall into a pit and you respawn there, minus one life. Run out of lives and the level restarts from the beginning.
 - **Pickups.** Traditional Cretan foods scattered through the level act as health/score items.
 - **Historical framing.** An intro panel sets the era's context; a completion panel names and describes the recovered artefact.
-![Platforming past a legionarius across floating ruins](Assets/gareth_anim3.gif)
- 
+
+<p align="center">
+  <img src="Assets/gareth_anim2.gif" alt="beginning_of_game">
+</p>
 *Hopping across floating ruins, slipping past a patrolling legionarius.*
  
-![A stele checkpoint lighting up beside a death-zone pit](Assets/gareth_anim2.gif)
- 
+<p align="center">
+  <img src="Assets/gareth_anim3.gif" alt="beginning_of_game">
+</p>
 *A stele lights up as Gareth passes — respawn here after a fall, minus one life.*
  
 ---
