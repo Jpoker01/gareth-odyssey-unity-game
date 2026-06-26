@@ -12,7 +12,7 @@ Play as **Gareth Owens**, archaeologist and Cretan script scholar, who recovers 
  
 ## Build Overview
  
-This build focuses everything on one finished level rather than trying to implement the full game concept. **Level 2** ships with finished art, five enemies, checkpoints, a working HUD, all four difficulty settings, and a full intro to completion loop. Levels 1, 3, and 4 remain at the design stage.
+This build focuses on one finished level rather than trying to implement the full game base on the concept. **Level 2** is with finished art, five enemies, checkpoints, a working HUD, all four difficulty settings, and a full intro to completion loop. Levels 1, 3, and 4 remain at the design stage.
  
 > **Your goal:** travel through the ruins of Gortyna - from open olive groves into dense marble ruins — and recover the **Law Code of Gortyn** before your lives run out.
  
